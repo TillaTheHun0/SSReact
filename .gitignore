@@ -22,6 +22,9 @@ Desktop.ini
 
 node_modules
 
+# Test Output
+.nyc_output
+
 # Debug log from npm
 npm-debug.log
 
