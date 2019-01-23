@@ -19,16 +19,18 @@ A minimal React boilerplate with support for code splitting, commitlinting, code
 > $ npm install
 ```
 
-### Runs the app in the development mode
+### Run the app in the development mode with client and server hot module reload
 Build and open your browser to http://localhost:8080.
 ```
 > $ npm run dev
 ```
 
-### Builds and runs the app in production
+### Build and run the app in production
 ```
 > $ npm run prod
 ```
+
+The production server build is built into `./build` while the client build is built into `./dist`
 
 ### Thanks
 
