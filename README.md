@@ -34,4 +34,4 @@ The production server build is built into `./build` while the client build is bu
 
 ### Thanks
 
-Thanks to Luan and [his project](https://github.com/luangjokaj/react-ssr-boilerplate) that provided a great deal of the scaffolding to start this boilerplate!
+Thanks to Luan and [his project](https://github.com/luangjokaj/react-ssr-boilerplate) that provided a great deal of the intial scaffolding I used for this boilerplate!
